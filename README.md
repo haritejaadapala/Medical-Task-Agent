@@ -28,6 +28,7 @@ Built with **LangChain**, **Ollama** (or other local LLMs), **Telegram Bot API**
 - pytz, tzlocal, dateutil
 
 ⚖️ Copyright Notice
+
 This project, including its source code, design, and structure, is Copyright © 2025 Hari Adapala. All rights reserved.
 
 It is protected under:
@@ -59,12 +60,14 @@ You may not copy, reproduce, modify, distribute, publish, transmit, or create de
 ✅ Contributing to the project via pull requests or issues, under the same license
 
 📜 License
+
 This project is licensed under a custom "No Derivatives / No Commercial Use" License, based on CC BY-NC-ND 4.0:
 
 You may share this work with attribution for non-commercial purposes only. You may not adapt, remix, transform, or build upon this code without explicit permission.
 
 
 🛡️ Enforcement and Penalties
+
 If this code is found plagiarized or redistributed without permission:
 
 A DMCA takedown notice will be filed against the infringing repository or platform
