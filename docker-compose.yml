@@ -1,0 +1,14 @@
+services:
+  mistral-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"     # FastAPI server
+      - "11434:11434"   # Ollama server
+    volumes:
+      - ollama_models:/root/.ollama
+    container_name: mistral-server-mistral-server-1
+
+volumes:
+  ollama_models:
