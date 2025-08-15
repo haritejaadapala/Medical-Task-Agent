@@ -1,4 +1,4 @@
-# 🩺 Medical Reminder Agent
+# 🩺 PromptCare- Medical Reminder Agent
 
 ## 🤖 Project Overview
 
